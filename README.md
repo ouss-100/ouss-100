@@ -33,10 +33,7 @@ src="https://img.shields.io/github/followers/ouss-100?logo=github&style=for-the-
 
 <a href="http://www.github.com/ouss-100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouss-100&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ouss-100"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ouss-100&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/ouss-100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouss-100&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBtbGN2bWF4a2FyM2ZhMWF3cnM1aDRyank3ZGV5Z2N4M2xtZHdjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M30aVAIwMtgKqxFxmv/giphy.gif" width="250"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBzaWczdjU5Y2plcmFvbjhtYmJlaWJkdmVkNDY0cjgyajFvdXNzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IELpWQlNa0IR2IqqdZ/giphy.gif" width="250"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxnbHBkeHpzdHhqcHBsZmVvem1nM2FscXNoNHhxbGd5aDc5dGwxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif" width="250">
