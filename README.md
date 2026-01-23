@@ -7,14 +7,27 @@ Software engineer skilled in C, Python, Java, and JavaScript. Proficient in Reac
 - 🧠  Always learning Data Science & AI
 
 <div align="center">
-<a href="https://www.github.com/ouss-100" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ouss-100?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-<a href="https://portfolio-alpha-one-2gmpksu9it.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-<a href="https://www.linkedin.com/in/moussaoussama" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/moussaoussama63" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a>
-<a href="https://huggingface.co/ouss100" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" /></a>
-
-<a href="https://www.kaggle.com/oussamamoussa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.github.com/ouss-100" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/ouss-100?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" />
+  </a>
+  <a href="https://portfolio-alpha-one-2gmpksu9it.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
+  <a href="https://www.linkedin.com/in/moussaoussama" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/moussaoussama63" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" />
+  </a>
+  <br><br>
+  <a href="https://huggingface.co/ouss100" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" />
+  </a>
+  <a href="https://www.kaggle.com/oussamamoussa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" />
+  </a>
 </div>
+
 
 ###
 
