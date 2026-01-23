@@ -8,9 +8,8 @@ Software engineer skilled in C, Python, Java, and JavaScript. Proficient in Reac
 
 <div align="center">
 <a href="https://www.github.com/ouss-100" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ouss-100?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-<a href="fff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
-<a href="fff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="fff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://portfolio-alpha-one-2gmpksu9it.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+<a href="https://www.linkedin.com/in/moussaoussama" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ###
@@ -35,6 +34,8 @@ Software engineer skilled in C, Python, Java, and JavaScript. Proficient in Reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
   <img width="12" />
   <img src="https://docs.astral.sh/uv/assets/logo-letter.svg" width="50" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -87,13 +88,13 @@ Software engineer skilled in C, Python, Java, and JavaScript. Proficient in Reac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60"  alt="seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.prod.website-files.com/680a070c3b99253410dd3dcf/68e4eb5ed38d35e8270d5b55_Ultralytics%20Icon.svg"width="70" />
 </div>
 
 ###
