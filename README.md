@@ -1,4 +1,4 @@
-# Oussama Data Scientist | Machine Learning | Al Engineer
+# Data Scientist | Machine Learning | Al Engineer
 
 Software engineer skilled in C, Python, Java, and JavaScript. Proficient in React, Next.js, Flutter, MySQL, and MongoDB. Passionate about AI, data analytics, and machine learning.
 - 🤖 Building AI assistants, ML models, and smart automation tools
