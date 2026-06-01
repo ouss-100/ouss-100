@@ -114,7 +114,15 @@ Software engineer skilled in C, Python, Java, and JavaScript. Proficient in Reac
 
 ###
 ## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats & Top Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouss-100&show_icons=true&theme=dracula" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ouss-100&layout=compact&theme=dracula" height="300" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ouss-100&show_icons=true&theme=dracula&cache_seconds=1800"
+    height="300"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouss-100&layout=compact&theme=dracula&cache_seconds=1800"
+    height="300"
+  />
 </div>
