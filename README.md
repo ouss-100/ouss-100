@@ -1,6 +1,6 @@
 # Data Scientist | Machine Learning | Al Engineer
 
-Software engineer skilled in C, Python, Java, and JavaScript. Proficient in React, Next.js, Flutter, MySQL, and MongoDB. Passionate about AI, data analytics, and machine learning.
+Data Scientist | Machine Learning & AI Engineer Skilled in Python and JavaScript. Proficient in Next.js, TensorFlow, PyTorch, SQL, and NoSQ
 - 🤖 Building AI assistants, ML models, and smart automation tools
 - 🌍  I'm based in Tunisie
 - ✉️  You can contact me at [moussaoussama63@gmail.com](mailto:moussaoussama63@gmail.com)
