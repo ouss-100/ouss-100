@@ -116,7 +116,18 @@ Data Scientist | Machine Learning & AI Engineer Skilled in Python and JavaScript
 ###
 ## 📊 GitHub Stats & Top Languages
 
+## 📊 GitHub Stats & Top Languages
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ouss-100&show_icons=true&theme=dracula" height="300"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ouss-100&layout=compact&theme=dracula" height="300"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ouss-100&show_icons=true&theme=dracula&hide_border=true"
+    alt="Oussama's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouss-100&layout=compact&theme=dracula&hide_border=true"
+    alt="Oussama's Top Languages"
+    height="180"
+  />
 </div>
+
