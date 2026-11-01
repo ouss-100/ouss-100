@@ -1,0 +1,66 @@
+name: Profile assets
+
+# Builds the stats card, activity graph, project cards and contribution snake,
+# then commits them to this repo (assets/generated and assets/projects),
+# where the README loads them from. Runs on every push, every 12 hours,
+# and on demand from the Actions tab.
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card, activity graph and project cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          mkdir -p assets/generated
+          python3 scripts/stats_card.py assets/generated/stats.svg || echo "::warning::stats card failed"
+          python3 scripts/activity_graph.py assets/generated/activity.svg || echo "::warning::activity graph failed"
+          python3 scripts/project_cards.py assets/projects || echo "::warning::project cards failed"
+
+      - name: Contribution snake
+        continue-on-error: true
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%232DD4BF
+
+      - name: Collect snake files
+        run: |
+          mkdir -p assets/generated
+          cp dist/*.svg assets/generated/ 2>/dev/null || echo "::warning::snake files were not generated"
+          ls -la assets/generated
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated assets/projects
+          if git diff --cached --quiet; then
+            echo "Everything is already up to date"
+            exit 0
+          fi
+          git commit -m "chore: refresh profile assets"
+          git push || {
+            echo "::error::Push was refused. Open Settings > Actions > General > Workflow permissions, choose 'Read and write permissions', save, then re-run this workflow."
+            exit 1
+          }
