@@ -1,6 +1,6 @@
 name: Profile assets
 
-# Builds the stats card, activity graph, project cards and contribution snake,
+# Builds the stats card, languages card, activity graph, project cards and contribution snake,
 # then commits them to this repo (assets/generated and assets/projects),
 # where the README loads them from. Runs on every push, every 12 hours,
 # and on demand from the Actions tab.
@@ -32,6 +32,7 @@ jobs:
         run: |
           mkdir -p assets/generated
           python3 scripts/stats_card.py assets/generated/stats.svg || echo "::warning::stats card failed"
+          python3 scripts/languages_card.py assets/generated/languages.svg || echo "::warning::languages card failed"
           python3 scripts/activity_graph.py assets/generated/activity.svg || echo "::warning::activity graph failed"
           python3 scripts/project_cards.py assets/projects || echo "::warning::project cards failed"
 
