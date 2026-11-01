@@ -1,0 +1,15 @@
+{
+  "owner_note": "Edit this file to add, remove or reorder projects. 'description' is optional: when empty, the repo's own GitHub description is used.",
+  "projects": [
+    {"repo": "ouss-100/Football-Analysis-System", "wide": true,
+     "description": "End-to-end pipeline for football match video: tracks players, referees and the ball, estimates speed and distance in real-world units, assigns teams and computes ball possession."},
+    {"repo": "ouss-100/ai-learning-platform",
+     "description": "Flask REST API for personalized course recommendations, LLaMA 3.2-powered assessments and automatic quiz evaluation."},
+    {"repo": "ouss-100/PersonaFederatedAI",
+     "description": "Predicts the Big Five personality traits with federated learning, so data stays on client devices."},
+    {"repo": "ouss-100/Wash-Trading-Detection",
+     "description": "Streamlit dashboard for detecting wash trading."},
+    {"repo": "ouss-100/imageCleaner",
+     "description": "Finds and removes duplicate images with perceptual hashing and exports a cleaned CSV."}
+  ]
+}
